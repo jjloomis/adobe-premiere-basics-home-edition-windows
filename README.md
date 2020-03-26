@@ -1,8 +1,8 @@
-# Adobe Premiere CC 2019: Basic Video Editing
+# Adobe Premiere Pro 2020 Basics \| Home Edition \(Windows\)
 
 # About
 
-Adobe Premiere: Video Editing Basics for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/ "Journalism, Advertising, and Media Studies website") students at [UW-Milwaukee](http://uwm.edu/ "UW–Milwaukee website").
+Adobe Premiere Pro 2020 Basics \| Home Edition \(Windows\) for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/ "Journalism, Advertising, and Media Studies website") students at [UW-Milwaukee](http://uwm.edu/ "UW–Milwaukee website").
 
 ## Credits
 
