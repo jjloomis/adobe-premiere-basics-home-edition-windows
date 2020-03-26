@@ -7,6 +7,7 @@
 ## Installing Premiere Pro on your PC
 
 * [Checking if your computer meets minimum system requirements](installing-premiere-pro-on-your-pc/checking-if-your-computer-meets-minimum-system-requirements.md)
+* [Installing Premiere Pro](installing-premiere-pro-on-your-pc/installing-premiere-pro.md)
 
 ## Setting up your project
 
