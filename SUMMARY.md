@@ -4,6 +4,10 @@
 
 * [Introduction](README.md)
 
+## Installing Premiere Pro on your PC
+
+* [Checking if your computer meets minimum system requirements](installing-premiere-pro-on-your-pc/checking-if-your-computer-meets-minimum-system-requirements.md)
+
 ## Setting up your project
 
 * [Connecting to your class folder](connecting-to-your-class-folder.md)
