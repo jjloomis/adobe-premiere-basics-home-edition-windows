@@ -7,11 +7,12 @@ Before importing media files into Premiere, you'll need copy these files into yo
 3. On video camera, open the side panel.
 4. Press **Camera to Play** button.
 5. On the camera's touch screen, press Built-in Mem. \(Do not disconnect or turn off the camera without properly ejecting it from your PC.\)
-6. [Navigate to your project folder](https://jjloomis.gitbooks.io/file-and-folder-management/content/navigating-folder-tree.html). Then [open a second Finder window](https://jjloomis.gitbooks.io/file-and-folder-management/content/opening-multiple-finder-windows.html). Select Canon in the left pane of the Finder window.
-7. Copy AVCHD from the Canon Finder window into your project folder.
-8. After AVCHD has copied into your project folder, eject the video camera. Control-click the video camera icon on the Desktop and choose Eject.
-9. Disconnect the camera from the Mac.
-10. In your project folder, rename AVCHD. Follow File and Folder Naming Conventions. \(Do not delete, rename or move any files or folders inside this directory.\)
+6. Navigate to **This PC**. A **Canon** icon should appear under **Devices and drives**. Double-click the **Canon** icon.
+7. In **Canon, **select** **and** **copy** AVCHD**.
+8. [Navigate to your project folder](https://jjloomis.gitbooks.io/file-and-folder-management/content/navigating-folder-tree.html). Paste **AVCHD** in your project folder.
+9. After AVCHD has copied into your project folder, eject the video camera. 
+10. Disconnect the camera from your PC.
+11. In your project folder, rename **AVCHD**. Follow File and Folder Naming Conventions. \(Do not delete, rename or move any files or folders inside this directory.\)
 
 
 
