@@ -11,7 +11,6 @@
 
 ## Setting up your project
 
-* [Connecting to your class folder](connecting-to-your-class-folder.md)
 * [Creating a project folder](creating-a-project-folder.md)
 * [Copying media files from a Canon video camera into your project folder](adding-media-from-a-video-camera.md)
 * [Copying media files from an iPad&\#47; iPhone into your project folder](adding-media-from-an-ios-device.md)
