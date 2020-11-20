@@ -10,7 +10,5 @@
 8. Proceed through all of the installation steps.
 9. When installation is complete, **Premiere Pro** will appear in the **Start** menu on your PC.
 
-![](/assets/installing-premiere-pro-pc.png)
-
-
+![](../.gitbook/assets/installing-premiere-pro-pc.png)
 

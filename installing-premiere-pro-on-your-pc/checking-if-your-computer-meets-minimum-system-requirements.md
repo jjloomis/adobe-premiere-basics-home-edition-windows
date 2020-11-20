@@ -6,9 +6,7 @@
 4. Your computer's specs \(processor, operating system, RAM\) will appear under **Device specifications**. Your computer's operating system will appear under **Windows specifications.**
 5. To see the amount of space available on your computer, press **Windows E** \(on keyboard--**Windows** key is between **Ctrl** and **Alt**.\)
 6. Click **This PC** \(on left.\)
-7. The amount of space available will be visible under the **C: **drive.
+7. The amount of space available will be visible under the **C:** drive.
 
-![](/assets/pc-specs.png)
-
-
+![](../.gitbook/assets/pc-specs.png)
 
